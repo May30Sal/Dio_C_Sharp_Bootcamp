@@ -1,0 +1,15 @@
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\obj\Debug\net6.0\DesafioProjeto1.csproj.AssemblyReference.cache
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\obj\Debug\net6.0\DesafioProjeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\obj\Debug\net6.0\DesafioProjeto1.AssemblyInfoInputs.cache
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\obj\Debug\net6.0\DesafioProjeto1.AssemblyInfo.cs
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\obj\Debug\net6.0\DesafioProjeto1.csproj.CoreCompileInputs.cache
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\bin\Debug\net6.0\DesafioProjeto1.exe
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\bin\Debug\net6.0\DesafioProjeto1.deps.json
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\bin\Debug\net6.0\DesafioProjeto1.runtimeconfig.json
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\bin\Debug\net6.0\DesafioProjeto1.dll
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\bin\Debug\net6.0\ref\DesafioProjeto1.dll
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\bin\Debug\net6.0\DesafioProjeto1.pdb
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\obj\Debug\net6.0\DesafioProjeto1.dll
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\obj\Debug\net6.0\ref\DesafioProjeto1.dll
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\obj\Debug\net6.0\DesafioProjeto1.pdb
+C:\Users\MAYSA\GFT4\DesafioProjeto1\DesafioProjeto1\obj\Debug\net6.0\DesafioProjeto1.genruntimeconfig.cache
